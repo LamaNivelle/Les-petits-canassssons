@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1583182594 source:c:\users\hecto\documents\algo\les petits canassons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1583193688 source:c:\users\hecto\documents\algo\les ptits\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1583254239 source:c:\users\hecto\documents\algo\les ptits cannasssons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
