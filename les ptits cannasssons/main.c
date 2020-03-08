@@ -40,7 +40,7 @@ int main()
     printf("\n     Bienvenue dans le jeu des petits canassons !\n");
     srand(time(NULL)); //initialisation de la fonction random
 
-    premier=age(); //le premier joueur à jouer
+    premier=age(); //le premier joueur Ã  jouer
     Sleep(1000);
     printf("\n\n\n\n\n\n\n\n                                      Debut de la partie dans 3   ");
     Sleep(1000);
@@ -102,6 +102,7 @@ int age (void)
     return premier;
 }
 
+
 int de(void)
 {
     int face;
@@ -143,7 +144,7 @@ int choix(int typechoix)
             case 1 : printf("Vous avez sorti un pion\n");
                     break;
 
-            case 2 : printf("Vous avez bougé votre pion\n");
+            case 2 : printf("Vous avez bougÃ© votre pion\n");
                     break;
 
             case 3 : printf("Vous avez choisi de ne rien faire\n");
