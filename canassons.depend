@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583587259 source:c:\users\hecto\documents\algo\canassons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+
